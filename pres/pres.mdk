@@ -36,10 +36,29 @@ Raise your hand if you have identified RQ and are comfortable with the concept
 ~ Begin Vertical { data-background:Gainsboro }
 
 ## Pulling Literature {#vertical}
+![lib.uci]
 
+[lib.uci]: images/lib.uci.png "lib.uci" { width:auto; max-width:90% }
+
+lib.uci.edu
+
+## Pulling Liteature {#vertical}
+![scholar]
+[scholar]: images/scholar.png "scholar" { width:auto; max-width:90% }
+
+scholar.google.com
+
+## Pulling Literature {#vertical}
+![dl.acm]
+
+[dl.acm]: images/dl.acm.png "dl.acm" { width:auto; max-width:90% }
+
+
+dl.acm.org
 
 ## Healthcare Example
 
+Reading software quickly
 
 ~ End Vertical
 
